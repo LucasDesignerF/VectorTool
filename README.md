@@ -190,7 +190,7 @@ Este projeto está licenciado sob a **MIT License**. Consulte o arquivo [LICENSE
 Se você tiver dúvidas, sugestões ou quiser colaborar, sinta-se à vontade para entrar em contato:  
 
 - **Email:** ofc.rede@gmail.com 
-- **GitHub:** [@seuusuario](https://github.com/LucasDesignerF)  
+- **GitHub:** [LucasDesignerF](https://github.com/LucasDesignerF)  
 - **Discord:** lrfortes 
 
 ---
