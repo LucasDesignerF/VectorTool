@@ -1,7 +1,6 @@
 # **🌟 Ferramenta de Criação Vetorial - Projeto de Design Moderno e Poderoso**  
 
 ![Banner do Projeto](https://imgur.com/lKWZfug.png)  
-*Banner ilustrativo do projeto - Design moderno e minimalista*  
 
 ---
 
